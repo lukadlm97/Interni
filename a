@@ -1,0 +1,43 @@
+[33mcommit 242edd61876b2fdf984ea8c47b6687ce3f00e997[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mLogIn[m[33m)[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Tue Jun 18 14:55:00 2019 +0200
+
+    dodat json dokument
+
+[33mcommit a56b6cbbe15802837ddd197188b76bde69cc3972[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 16:08:02 2019 +0200
+
+    Added readme
+
+[33mcommit b311bd5fa72ab9fedf73b12bb7e63f6c951cba03[m
+Merge: 2658657 9924454
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 15:58:55 2019 +0200
+
+    Merge branch 'login'
+    added login form
+
+[33mcommit 9924454c9026ced4d62657d8b3f1b6b4d26e6923[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 15:58:08 2019 +0200
+
+    login form
+
+[33mcommit 26586573fbdd25ff5b0dc773a8094296737284bc[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 15:56:14 2019 +0200
+
+    another change
+
+[33mcommit 48988a543d538683d9fa79659e16e3f7b68c45c1[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 15:47:41 2019 +0200
+
+    Changed app.js
+
+[33mcommit 2b37efd8b95e19932c3ef158d76b8ce5e7be3303[m
+Author: Luka Radovanovic <lukadlm97@gmail.com>
+Date:   Wed Jun 12 15:44:16 2019 +0200
+
+     Initial commit
